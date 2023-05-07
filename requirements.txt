@@ -1,0 +1,4 @@
+charset-normalizer
+cssselect
+lxml
+requests
